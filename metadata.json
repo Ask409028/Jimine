@@ -1,0 +1,6 @@
+{
+  "name": "Jimine",
+  "description": "Your friendly and intelligent pocket companion powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
